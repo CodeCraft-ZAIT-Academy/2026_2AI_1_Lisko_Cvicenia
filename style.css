@@ -35,5 +35,22 @@ img {
     border: 10px;
     border-radius: 15px;
 }
-
+.header{
+    background-color: gray;
+}
+.number{
+    text-align: right;
+}
+table,td{
+    border: 1px solid;
+}
+table{
+    background-color: wheat;
+}
+.different{
+    background-color: aqua;
+}
+tr:nth-child{
+    background-color: cadetblue;
+}
 
